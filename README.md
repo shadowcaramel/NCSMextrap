@@ -9,3 +9,5 @@ This repository icludes following files:
   * PP_script.py -  postprocessing script that produce all the results.
   * skeleton.py - script that run above parts. This project was intended to use with [Slurm workload manager](https://slurm.schedmd.com/documentation.html). Dividing the "job" into parts with Slurm is utilized to further speed-up.
   * data_sample.xlsx
+
+Program was tested with Python 3.11, TensorFlow 2.14.0 and TensorFlow Addons 0.22.0.
